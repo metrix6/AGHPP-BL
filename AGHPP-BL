@@ -1,5 +1,5 @@
 ! ==Apple Telemetry==
-iphone-ld.apple.com
+||iphone-ld.apple.com
 
 ! ==Disable Apple iCloud Private Relay==
 ||mask.icloud.com^$important,dnsrewrite=NXDOMAIN;;
