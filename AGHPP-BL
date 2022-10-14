@@ -5,8 +5,9 @@ iphone-ld.apple.com
 ||mask.icloud.com^$important,dnsrewrite=NXDOMAIN;;
 ||mask-h2.icloud.com^$important,dnsrewrite=NXDOMAIN;;
 
-! ==NSFW Phishing==
+! ==Phishing==
 ||funkydaters.com
+||amazononlinewinners.in
 
 ! ==General Telemetry/Data Collection==
 ||a.nel.cloudflare.com
@@ -18,7 +19,7 @@ iphone-ld.apple.com
 ||gamegamb.com
 ||clog.geniex.com
 ||api.ahagamecenter.com
-|irl-api.twibida.com
+||irl-api.twibida.com
 ||restart-api.palmplaystore.com
 ||hippoobox.com
 ||minigame.vip
